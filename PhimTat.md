@@ -8,3 +8,7 @@
 8. Command-W : Đóng tab
 9. Command mũi tên : Thú vị
 10. Control-A : di chuyen đến đầu dòng
+11. Control-E : di chuyển dấu chèn đến cuối dòng
+12. Option-Mũi tên Phải : di chuyển dấu chèn đến trước 1 từ
+13. Control-U : Xoá dòng
+14. 
