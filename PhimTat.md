@@ -1,3 +1,5 @@
+## Phim tat su dung cho MacOS
+
 1. Command-N : cửa sổ mới trong terminal
 2. Command T : tab mới terminal
 3. Command-Cộng (+) : Tăng font chữ
