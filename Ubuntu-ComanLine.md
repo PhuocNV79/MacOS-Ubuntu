@@ -17,3 +17,11 @@
 15. `echo cauText`: in cauText ra man hinh terminal.
 16. `echo cauText > Ten-File.abc`: ghi de noi dung cauText vao file Ten-File.abc.
 17. `echo cauText >> Ten-File.abc`: Ghi them noi dung vao cuoi file.
+18. `tail Ten-File`: doc 10 dong cuoi cua file in ra terminal.
+19. `tail -n So-Luong-Dong Ten-File`: doc So-Luong-Dong dong cuoi cua file in ra terminal.
+20. `grep`: thuong ket hop voi stout.
+21. `echo "nguyen van phuoc" | grep phuoc`: hien chu phuoc dc highlight
+22. `cat concat.html index.html | grep "noi"`: tim noi dung o nhieu file.
+23. `cp Ten-File Ten-File-Moi`: copy file ra file moi.
+24. `cp -r Ten-Thu-Muc Ten-Thu-Muc-Muon-Dat`: copy thu muc va noi dung trong do.
+25. 
