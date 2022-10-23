@@ -11,3 +11,9 @@
 9. `:q!`: thoat file va khong luu noi dung thay doi.
 10. `:wq`: luu va thoat file.
 11. `:x`: luu va thoat file
+12. `cat Ten-File`: doc 1 file va in noi dung ra man hinh terminal. (stout standar output)
+13. `cat Ten-File1 Ten-File2`: Doc va in noi dung 2 file ra man hinh terminal
+14. `cat Ten-File1 Ten-File2 > Ten-File3`: Doc noi dung file1, 2 va ghi vao file 3.
+15. `echo cauText`: in cauText ra man hinh terminal.
+16. `echo cauText > Ten-File.abc`: ghi de noi dung cauText vao file Ten-File.abc.
+17. `echo cauText >> Ten-File.abc`: Ghi them noi dung vao cuoi file.
