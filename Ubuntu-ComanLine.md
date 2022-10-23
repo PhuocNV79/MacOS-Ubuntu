@@ -32,4 +32,7 @@
   + ZZZ: quyen cua group
   + TTT: quyen cua other
 
-27. `chown`: change owner
+27. `chown`: change owner.
+28. `wget`: dung de tai 1 file voi duong dan truc tiep.
+29. `kill`: dung de tat 1 ung dung dang chay.
+30. `ps aux`: xem cac chuong trinh dang chay.
