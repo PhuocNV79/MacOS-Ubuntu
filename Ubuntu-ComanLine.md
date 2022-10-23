@@ -24,4 +24,12 @@
 22. `cat concat.html index.html | grep "noi"`: tim noi dung o nhieu file.
 23. `cp Ten-File Ten-File-Moi`: copy file ra file moi.
 24. `cp -r Ten-Thu-Muc Ten-Thu-Muc-Muon-Dat`: copy thu muc va noi dung trong do.
-25. 
+25. `chmod`: change mode, dung de thay doi quyen cua file, thu muc
+26. Giai thich y nghia cac ky tu colum1 cua `ls -l`:
+ - xYYYZZZTTT:
+  + x: Loai tep tin: d: directory, l: shortcut, -: file
+  + YYY: quyen cua rootuser, r: read, w: write, x: excute, -: none
+  + ZZZ: quyen cua group
+  + TTT: quyen cua other
+
+27. `chown`: change owner
